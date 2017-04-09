@@ -1,2 +1,2 @@
-# CS224n
-CS224n winter 2017 assignments
+# CS224n assignments
+CS224n: Natural Language Processing with Deep Learning  winter 2017 assignments
