@@ -1,0 +1,5 @@
+datasets/
+*.pyc
+*.npy
+*.DS_Store
+.vscode/

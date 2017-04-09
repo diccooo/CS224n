@@ -1,0 +1,41 @@
+Training for reg=0.000500
+Train accuracy (%): 39.899345
+Dev accuracy (%): 36.330609
+Test accuracy (%): 37.013575
+Training for reg=0.005000
+Train accuracy (%): 39.969569
+Dev accuracy (%): 36.239782
+Test accuracy (%): 37.104072
+Training for reg=0.050000
+Train accuracy (%): 39.899345
+Dev accuracy (%): 36.330609
+Test accuracy (%): 37.511312
+Training for reg=0.500000
+Train accuracy (%): 39.595037
+Dev accuracy (%): 36.148955
+Test accuracy (%): 37.375566
+Training for reg=5.000000
+Train accuracy (%): 39.009831
+Dev accuracy (%): 36.784741
+Test accuracy (%): 37.375566
+Training for reg=50.000000
+Train accuracy (%): 37.113764
+Dev accuracy (%): 36.421435
+Test accuracy (%): 36.199095
+Training for reg=500.000000
+Train accuracy (%): 33.508895
+Dev accuracy (%): 32.425068
+Test accuracy (%): 33.212670
+
+=== Recap ===
+Reg		Train	Dev	Test
+5.00E-04	39.899	36.331	37.014
+5.00E-03	39.970	36.240	37.104
+5.00E-02	39.899	36.331	37.511
+5.00E-01	39.595	36.149	37.376
+5.00E+00	39.010	36.785	37.376
+5.00E+01	37.114	36.421	36.199
+5.00E+02	33.509	32.425	33.213
+
+Best regularization value: 5.00E+00
+Test accuracy (%): 37.375566
