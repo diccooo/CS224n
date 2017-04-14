@@ -1,5 +1,7 @@
 datasets/
+weights/
 *.pyc
 *.npy
 *.DS_Store
 .vscode/
+*.pkl
